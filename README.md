@@ -19,8 +19,8 @@
 ⚡ Fast and SEO Optimized
 
 To view a demo example, **[Click Here](https://devfolio.js.org)**\
-To view a live example, **[Click Here](https://anilseervi.github.io/Portfolio/)**\
-To view live example repo, **[Click Here](https://github.com/AnilSeervi/Portfolio/)**
+To view a live example, **[Click Here](https://mirandadrummond.com/)**\
+To view live example repo, **[Click Here](https://github.com/mirandadrummond/PortfolioWebsite/)**
 
 ## Getting Started 🚀
 
@@ -40,10 +40,10 @@ In VSCode, Open the terminal(<kbd>Ctrl</kbd>+<kbd>\\</kbd> ) and clone the DevFo
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/AnilSeervi/DevFolio.git
+$ git clone https://github.com/mirandadrummond/PortfolioWebsite.git
 
 # Go into the repository
-$ cd DevFolio
+$ cd PortfolioWebsite
 
 # Remove current origin repository
 $ git remote remove origin
@@ -305,7 +305,7 @@ $secondary-color: #5b86e5;
 
 ## Authors
 
-- **Anil Seervi** - [https://github.com/AnilSeervi](https://github.com/AnilSeervi)
+- **Miranda Drummond** - [https://github.com/mirandadrummond](https://github.com/mirandadrummond)
 
 ## License 📄
 
